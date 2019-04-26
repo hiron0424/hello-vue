@@ -3,7 +3,7 @@ new Vue({
   el: '#app',
   // dataは、定義されたVue.jsのインスタンスが持つ属性（値）
   data: {
-    name: 'A山B郎',
+    name: 'A山c郎',
     cource: 'Webエンジニアコース',
     acceptance_period: '2019年01月期',
     default_last_id: 3,
